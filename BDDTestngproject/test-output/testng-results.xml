@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T11:07:45 IST" name="Default suite" finished-at="2024-07-11T11:07:48 IST" duration-ms="3345">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T11:07:45 IST" name="Default test" finished-at="2024-07-11T11:07:48 IST" duration-ms="3345">
+      <class name="org.Stepdefn.Loginstepdefn">
+        <test-method signature="user_get_to_the_login_page()[pri:0, instance:org.Stepdefn.Loginstepdefn@74235045]" started-at="2024-07-11T11:07:45 IST" name="user_get_to_the_login_page" finished-at="2024-07-11T11:07:48 IST" duration-ms="3268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_get_to_the_login_page -->
+      </class> <!-- org.Stepdefn.Loginstepdefn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
